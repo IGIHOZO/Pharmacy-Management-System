@@ -1,0 +1,99 @@
+/*!
+IGIHOZO Didier All right reserved
+    -------------------
+Tel : +250722077175 , 250784424020
+email : didierigihozo07@gmail.com
+facebook : Didier Igihozo
+Instagram : Kabaka_official_1
+
+ */
+ #add_usr_btn{
+ 	border-radius: 200px;
+ }
+ #mmnllgdv,#subUsrLgnModal{
+ 	background:linear-gradient(#54836b,#90dab4,#54836b);
+ 	border-radius: 70px;
+ }
+  .brr{
+ 	color:#d28183;
+ }
+ #resn{
+ 	color:#45460a;
+ }
+ #plz_fll{
+  color: red;
+  font-weight: bolder;
+  font-size: 14px;
+  float: left;
+  margin-left:-10px;
+ }
+html {
+  position: relative;
+  min-height: 100%; }
+
+body {
+  overflow-x: hidden; 
+  background:linear-gradient(#83a69a,#feffef);
+}
+
+body.sticky-footer {
+  margin-bottom: 56px; }
+  body.sticky-footer .content-wrapper {
+    min-height: calc(100vh - 56px - 56px); }
+
+body.fixed-nav {
+  padding-top: 56px; }
+
+#home_mn_ad{
+	 	width: 35%; 
+	 	height: 100%;
+		color: #194167;
+		margin-left: 20%;
+		font-weight:lighter;
+		font-style:oblique;
+	}
+#add_sc_btn:hover{
+	cursor: pointer;
+}
+#lgnhr{
+
+		float:left;
+		font-weight: bolder;
+		font-size: 20px;
+		font-style: oblique;;
+		text-align:center;
+}
+
+#respp,#respp_sub{
+	text-align:center;
+	color: red;
+	font-weight: bold;
+}
+#add_usr_btn_lnk{
+	margin-top: 5px;
+}
+#add_usr_btn_lnk,#add_usr_btn_lnk_frgt{
+	background-color: #fff;
+	width: 200px;
+}
+#add_usr_btn:hover{
+	cursor: pointer;
+	background-color: #0000ae
+}
+#add_usr_btn_lnk:hover,#add_usr_btn_lnk_frgt:hover{
+	text-decoration: none;
+	cursor: pointer;
+	color: #0000ef;
+	font-size:16.5px;
+}
+#add_usr_btn_lnk_frgt{
+	text-decoration: underline;
+	color: #065205;
+	font-weight: bolder;
+}
+#add_usr_btn_lnk_frgt:hover{
+	cursor: pointer;
+}
+#sub_nm,#sub_pss{
+	width: 94%;
+}

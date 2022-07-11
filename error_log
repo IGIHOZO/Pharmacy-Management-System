@@ -1,0 +1,4 @@
+[13-Apr-2018 13:50:15 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seveeen/public_html/bms/products.php:2) in /home/seveeen/public_html/bms/products.php on line 3
+[13-Apr-2018 13:52:59 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seveeen/public_html/bms/products.php:2) in /home/seveeen/public_html/bms/products.php on line 3
+[13-Apr-2018 13:53:01 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seveeen/public_html/bms/products.php:2) in /home/seveeen/public_html/bms/products.php on line 3
+[14-Apr-2018 14:17:18 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/seveeen/public_html/bms/expenses.php:1) in /home/seveeen/public_html/bms/expenses.php on line 2
